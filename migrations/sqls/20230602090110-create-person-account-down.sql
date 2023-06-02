@@ -1,0 +1,1 @@
+DROP TABLE tienda_private.user_account;
